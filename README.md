@@ -17,10 +17,15 @@ Extensive experiments across diverse modalities and architectures highlight R2ET
 ## ⏳ What is included
 
 - 🧪 Preprocessed datasets and notebooks showcasing usage
+  
   pretrain.py (optional)
+  
 - 📊 Benchmarking against baseline robustness methods
+  
   batch_retrain.py
-- 📂 Codes for training and evaluation  
+  
+- 📂 Codes for training and evaluation
+  
   eval_retrain.py
 
 
